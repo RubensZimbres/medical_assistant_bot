@@ -1,0 +1,32 @@
+# Environment files
+.env
+medical-env
+*.env
+
+# Python
+__pycache__/
+*$py.class
+*.so
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Docker
+.docker/
+
+# Others
+.DS_Store
+.idea/
+.vscode/
