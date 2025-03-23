@@ -133,4 +133,4 @@ medical-assistant-bot/
 
 ## Screenshots/Diagrams
 
-![Model training](images/image1.png)
+![Model training](https://github.com/RubensZimbres/medical_assistant_bot/blob/main/images/image.png?raw=true)
